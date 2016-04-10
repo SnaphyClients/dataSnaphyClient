@@ -1,0 +1,7 @@
+{ "_id" : { "$oid" : "56c1fb559413b473376c70f4" }, "name" : "Groceries" }
+{ "_id" : { "$oid" : "56e9614d2145b3cf7ecee216" }, "name" : "Milk Product" }
+{ "_id" : { "$oid" : "56e961862145b3cf7ecee217" }, "name" : "Bakery" }
+{ "_id" : { "$oid" : "56e961a82145b3cf7ecee218" }, "name" : "Dairy & Eggs" }
+{ "_id" : { "$oid" : "56e961ba2145b3cf7ecee219" }, "name" : "Fruits & Vegetables" }
+{ "_id" : { "$oid" : "56e961d12145b3cf7ecee21a" }, "name" : "Meat & Seafood" }
+{ "_id" : { "$oid" : "56e961e12145b3cf7ecee21b" }, "name" : "Uncategorised" }

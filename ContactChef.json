@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "56ccf99f3191831b2d26fbfd" }, "message" : "HI i want to know about your course", "customerId" : { "$oid" : "56c1fa7f9413b473376c70ea" } }
+{ "_id" : { "$oid" : "56cd021d3191831b2d26fbfe" }, "message" : "Hey dere..", "customerId" : { "$oid" : "56c1fa7f9413b473376c70ea" } }
+{ "_id" : { "$oid" : "56f0ffaad284a6af3fa14916" }, "message" : "gjnivb", "added" : { "$date" : "2016-03-22T08:17:46.722+0000" }, "chefId" : { "$oid" : "56c1fa7f9413b473376c70ea" }, "customerId" : { "$oid" : "56e9a600f79b5a984286a44d" } }
